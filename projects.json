@@ -2,51 +2,51 @@
   {
     "id": 1,
     "name": "Project A",
-    "status": "In Progress"
+    "status": 1
   },
   {
     "id": 2,
     "name": "Project B",
-    "status": "Completed"
+    "status": 0
   },
   {
     "id": 3,
     "name": "Project C",
-    "status": "Pending"
+    "status": 1
   },
   {
     "id": 4,
     "name": "Project D",
-    "status": "On Hold"
+    "status": 0
   },
   {
     "id": 5,
     "name": "Project E",
-    "status": "In Progress"
+    "status": 1
   },
   {
     "id": 6,
     "name": "Project F",
-    "status": "Completed"
+    "status": 0
   },
   {
     "id": 7,
     "name": "Project G",
-    "status": "Pending"
+    "status": 1
   },
   {
     "id": 8,
     "name": "Project H",
-    "status": "On Hold"
+    "status": 0
   },
   {
     "id": 9,
     "name": "Project I",
-    "status": "In Progress"
+    "status": 1
   },
   {
     "id": 10,
     "name": "Project J",
-    "status": "Completed"
+    "status": 0
   }
 ]
